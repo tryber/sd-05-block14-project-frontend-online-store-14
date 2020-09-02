@@ -9,7 +9,7 @@ export default class Searchbar extends React.Component {
           data-testid="home-initial-message"
           placeholder="Digite algum termo de pesquisa ou escolha uma categoria."
         />
-        <input type="button" value="Busca" />
+        <input type="button" value="Busca" data-testid="query-button" />
       </div>
     );
   }
