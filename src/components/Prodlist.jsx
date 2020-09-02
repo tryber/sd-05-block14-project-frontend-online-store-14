@@ -1,7 +1,7 @@
 import React from 'react';
 
 export default class Prodlist extends React.Component {
-  render () {
+  render() {
     return (
       <div>
         <h1>Produtos</h1>
