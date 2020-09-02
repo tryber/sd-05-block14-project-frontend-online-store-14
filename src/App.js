@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import * as api from './services/api'
+import * as api from './services/api';
 import Searchbar from './components/Searchbar';
 
 function App() {
